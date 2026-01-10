@@ -5,6 +5,20 @@
   I craft clean, responsive, and accessible user interfaces that feel good to use.
 </p>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-efada-338020339" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" style="filter: invert(1);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@_kelichris" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="30" style="filter: invert(1);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/_Keli_Chris" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" style="filter: invert(1);" />
+  </a>
+</p>
 ---
 
 ## 🎨 About Me
