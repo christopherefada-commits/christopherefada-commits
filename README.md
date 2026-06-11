@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Christopher 👋</h1>
 
-<h3 align="center">Automation Engineer • AI Systems Architect • SaaS Builder 🌍</h3>
+<h3 align="center">Automation Engineer • AI Systems Architect • SaaS System Architect </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Systems;AI-Powered+Applications;Full-Stack+Architecture;Automation+%26+Backend+Engineering;Clean+Code.+Performance.+Scale." />
